@@ -15,10 +15,16 @@ export default function AboutPage() {
 
                     <p className="text-lg text-gray-600 leading-relaxed mb-6">
                         Teknoloji, yazılım geliştirme, yaşam deneyimleri ve ilginç bulduğum konular hakkında yazıyorum.
+                        Özellikle fonksiyonel programlama, web geliştirme ve matematik konularına ilgim var.
+                    </p>
+
+                    <p className="text-lg text-gray-600 leading-relaxed mb-6">
+                        Bu blog λ (lambda) sembolünü kullanıyor çünkü fonksiyonel programlamanın güzelliğini temsil ediyor.
+                        Lambda calculus, modern programlamanın temelini oluşturur ve ben de bu yaklaşımı seviyorum.
                     </p>
 
                     <p className="text-lg text-gray-600 leading-relaxed">
-                        Bu blog Next.js ve Markdown kullanılarak oluşturulmuştur. Yazılarımı posts klasöründe Markdown formatında tutuyorum.
+                        ...
                     </p>
                 </div>
             </div>
