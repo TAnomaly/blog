@@ -15,12 +15,13 @@ export default function AboutPage() {
 
                     <p className="text-lg text-gray-600 leading-relaxed mb-6">
                         Teknoloji, yazılım geliştirme, yaşam deneyimleri ve ilginç bulduğum konular hakkında yazıyorum.
-                        Özellikle fonksiyonel programlama, web geliştirme ve matematik konularına ilgim var.
+                        Özellikle <strong>Matematik, Fizik, İstatistik</strong> ve <strong>Bilinç Felsefesi</strong> konularına derin ilgim var.
                     </p>
 
                     <p className="text-lg text-gray-600 leading-relaxed mb-6">
-                        Bu blog λ (lambda) sembolünü kullanıyor çünkü fonksiyonel programlamanın güzelliğini temsil ediyor.
-                        Lambda calculus, modern programlamanın temelini oluşturur ve ben de bu yaklaşımı seviyorum.
+                        Programlama tarafında <strong>Low-level</strong>, <strong>Gömülü Sistemler</strong> ve <strong>AI/ML</strong>
+                        alanlarında çalışıyorum. Bu blog λ (lambda) sembolünü kullanıyor çünkü fonksiyonel programlamanın
+                        güzelliğini temsil ediyor ve matematiksel düşüncenin kodda nasıl yansıdığını gösteriyor.
                     </p>
 
                     <p className="text-lg text-gray-600 leading-relaxed">
