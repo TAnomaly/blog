@@ -5,6 +5,7 @@ module.exports = {
         './components/**/*.{js,ts,jsx,tsx,mdx}',
         './app/**/*.{js,ts,jsx,tsx,mdx}',
     ],
+    darkMode: 'class',
     theme: {
         extend: {
             colors: {
@@ -49,6 +50,44 @@ module.exports = {
                         code: {
                             color: '#111827',
                             backgroundColor: '#f3f4f6',
+                            padding: '0.25rem 0.375rem',
+                            borderRadius: '0.25rem',
+                            fontSize: '0.875em',
+                        },
+                        'code::before': {
+                            content: '""',
+                        },
+                        'code::after': {
+                            content: '""',
+                        },
+                    },
+                },
+                invert: {
+                    css: {
+                        color: '#d1d5db',
+                        a: {
+                            color: '#60a5fa',
+                            textDecoration: 'underline',
+                            fontWeight: '500',
+                        },
+                        'a:hover': {
+                            color: '#93c5fd',
+                        },
+                        h1: {
+                            color: '#f9fafb',
+                        },
+                        h2: {
+                            color: '#f9fafb',
+                        },
+                        h3: {
+                            color: '#f9fafb',
+                        },
+                        h4: {
+                            color: '#f9fafb',
+                        },
+                        code: {
+                            color: '#f9fafb',
+                            backgroundColor: '#374151',
                             padding: '0.25rem 0.375rem',
                             borderRadius: '0.25rem',
                             fontSize: '0.875em',

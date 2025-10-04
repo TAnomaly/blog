@@ -2,6 +2,8 @@
 title: "İlk Yazım"
 date: "2024-01-15"
 excerpt: "Bloguma hoş geldiniz! Bu ilk yazımda blog hakkında kısa bilgiler paylaşıyorum."
+category: "Genel"
+tags: ["blog", "başlangıç", "tanıtım"]
 ---
 
 # Merhaba Dünya!
